@@ -21,14 +21,14 @@ HOME PAGE
 
 TRAIN HOME PAGE
 
-![Image description](https://drive.google.com/open?id=1hnnxFrE3LrUdEQUHHaoaXnblDWA12TvL)
+![Train home page](https://drive.google.com/open?id=1hnnxFrE3LrUdEQUHHaoaXnblDWA12TvL)
 
 BUS HOME PAGE
 
-![Image description](https://drive.google.com/open?id=1fWjkk92_OktywiVpAgX5jVjmipL6ae1m)
+![Bus home page](https://drive.google.com/open?id=1fWjkk92_OktywiVpAgX5jVjmipL6ae1m)
 
 CREATE-EVENT HOME PAGE
 
-![Image description](https://drive.google.com/open?id=1T97lq1Y_6z6Pg6TvdQTAZ-uSy40ep_n0)
+![Event home page](https://drive.google.com/open?id=1T97lq1Y_6z6Pg6TvdQTAZ-uSy40ep_n0)
 
 Thank you to read :-)
