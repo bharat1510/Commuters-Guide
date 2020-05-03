@@ -22,17 +22,15 @@ HOME PAGE
 
 TRAIN HOME PAGE
 
-![Train home page](https://drive.google.com/open?id=1hnnxFrE3LrUdEQUHHaoaXnblDWA12TvL)
+![Train home page](https://github.com/bharat1510/image-for-readme.md/blob/master/Screenshot%20(235).png)
 
 BUS HOME PAGE
 
-![Bus home page](https://drive.google.com/open?id=1fWjkk92_OktywiVpAgX5jVjmipL6ae1m)
+![Bus home page](https://github.com/bharat1510/image-for-readme.md/blob/master/Screenshot%20(236).png)
 
 CREATE-EVENT HOME PAGE
 
-![Event home page](https://drive.google.com/open?id=1T97lq1Y_6z6Pg6TvdQTAZ-uSy40ep_n0)
-
-![Event home page](https://github.com/bharat1510/Credit-Management-System/blob/master/b1.jpg)
+![Event home page](https://github.com/bharat1510/image-for-readme.md/blob/master/Screenshot%20(237).png)
 
 
 Thank you to read :-)
