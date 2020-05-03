@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link title="theme" type="text/css" href="jquery-ui-1.8.17.custom.css" media="screen" rel="Stylesheet" id="themeCSS" />
+<link rel="stylesheet" media="screen" href="ui.timepickr.css" />
+<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="jquery.timepickr.min.js"></script>
+<script type="text/javascript">  
+$(document).ready(function(){ 
+$('#timestart').timepickr({
+		rangeMin: ['00','05','10','15','20','25','30','35','40','45','50','55'],
+		convention: 24} ).focus(); //timestart.timepickr
+}); //document ready
+</script>
+<title>ui.timepickr.js - Example</title>
+</head>
+<body>
+
+<h1>UiTimepickr Example</h1>
+<p>
+	Start Time
+  <input  id="timestart" type="text" value="" readonly="readonly" />
+
+</p>
+
+</body>
+</html>
+
